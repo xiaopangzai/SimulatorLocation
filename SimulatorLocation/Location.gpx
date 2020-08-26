@@ -6,7 +6,7 @@
      waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
      Xcode will simulate a route visiting each waypoint.
      -->
-    <wpt lat="99.087265" lon="36.759383">//此处修改为自己需要定位地点的经纬度，如：茶卡盐湖 99.087265,36.759383
+    <wpt lat="121.386657" lon="31.167918">//此处修改为自己需要定位地点的经纬度，如：茶卡盐湖 99.087265,36.759383
 <!--    <wpt lat="37.331705" lon="-122.030237">-->
         <name>Cupertino</name>
         
